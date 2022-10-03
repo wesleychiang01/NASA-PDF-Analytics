@@ -35,6 +35,8 @@ Similar to report text summarization, GPT-3 machine learning from OPenAi is appl
 # WHAT DO WE HOPE TO ACHIEVE?
 We believe that this software will be able to retrieve valuable reports from the report analysis so that the data collected can be applied to help researchers in accessing the right information that they want. Accessing all those thousand and hundreds of documents would be trouble, especially for users of the NASA website. The readily developed software will help to overcome this problem. With the information analysed, it can not only be further developed to build a query system or even a recommendation system for users to access reports. We hope that this software can change the situation and save users time in reading the reports with thousands of words
 
+# HACKATHON JOURNEY
+This hackathon is really an opportunity for me to apply my skill and knowledge to a potential project. Natural Language Processing is really things, especially in the financial sector and a lot more. Having my previous experience in a past hackathon (Banking industries hackathon), I get to know how real-world data scientists would do in building and leveraging technology in text analytics. Those experiences really help me to make up my mind in participating in this hackathon to apply my knowledge. As a solo player this time, it's quite challenging for me in terms of time management. Few days prior to the hackathon, I even started to search for related information and screened through the problem statements. So I started my preparartion early and carry out the developement step by step from data cleaning, testing and debugging. In short, it is a really special experience for me and I enjoy the most!
 
 
 # TOOLS:
