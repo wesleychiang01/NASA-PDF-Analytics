@@ -24,11 +24,11 @@ In short, the AI application developed can be divided into several steps, includ
 
 To achieve this objective, NLTK Scikit-learn python library is utilised to carry out the analysis of the text extracted from the pdf report. Apart from single word data analysis, 2 and 3 words terms were also analysed to obtain the frequency of the count. This is to provide a more in-depth analysis of the overall content. Next, all the data will be visualized by using Malpltolib Python packages in graph format. Wordcloud is included to give the reader a clearer picture of the report.
 
-2.Report Text Summarization 
+2. Report Text Summarization 
 
 Text Summarization is the most complex part of the whole software to ensure accuracy. In this case, GPT-3 neural network machine learning is leveraged. The state-of-the-art machine learning model is able to produce high quality and understandable summary of the original text without affecting its original meaning compared to another model.
 
-3.Content Scope Prediction 
+3. Content Scope Prediction 
 
 Similar to report text summarization, GPT-3 machine learning from OPenAi is applied to carry out this task. On top of that, I carry out model-retraining by building my own dataset from the NASA Information Scope Documentation. It is applied to predict the scope and the interest of the overall text to give the reader a clearer image. And with all the information analysed, the information will be displayed and produced in a report.
 
